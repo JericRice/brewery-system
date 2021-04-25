@@ -8,7 +8,7 @@ For further reference, please consider the following sections:
 * [Spring Boot Gradle Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.4.5/gradle-plugin/reference/html/)
 * [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.4.5/gradle-plugin/reference/html/#build-image)
 * [Spring Boot Actuator](https://docs.spring.io/spring-boot/docs/2.4.5/reference/htmlsingle/#production-ready)
-* [Spring Web](https://docs.spring.io/spring-boot/docs/2.4.5/reference/htmlsingle/#boot-features-developing-web-applications)
+* [Spring Web](https://docs.spring.io/spring-boot/docs/2.4.5/reference/htmlsingle/#boot-features-developing-com.example.brewerysystem.model.web-applications)
 * [Spring Boot DevTools](https://docs.spring.io/spring-boot/docs/2.4.5/reference/htmlsingle/#using-boot-devtools)
 
 ### Guides
@@ -17,7 +17,7 @@ The following guides illustrate how to use some features concretely:
 
 * [Building a RESTful Web Service with Spring Boot Actuator](https://spring.io/guides/gs/actuator-service/)
 * [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
+* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-com.example.brewerysystem.model.web-content/)
 * [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 
 ### Additional Links
